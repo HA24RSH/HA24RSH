@@ -78,7 +78,7 @@ Tools :-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HA24RSH&show_icons=true&theme=dark" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HA24RSH&layout=compact&theme=dark" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HA24RSH&theme=dark" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=HA24RSH" alt="GitHub Streak" /></a>
 </p>
 
 ---
