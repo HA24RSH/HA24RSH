@@ -58,15 +58,6 @@ Mobile Development :-
 </p>
 
 <p>
-Game Development :-
-  <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-</p>
-
-
-<p>
 Tools :-
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -86,5 +77,3 @@ Tools :-
 <p>
   <img src="https://github-profile-trophy.vercel.app/?username=HA24RSH&theme=darkhub&no-frame=true&column=8" alt="GitHub Trophies" />
 </p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
