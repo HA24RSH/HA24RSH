@@ -1,4 +1,4 @@
-# Hey, I'm Harsh 👋
+# Ayo! I'm Harsh.
 
 I build things, break them, and occasionally figure out why.
 
